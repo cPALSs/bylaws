@@ -5,7 +5,7 @@ Private GitHub copy of the cPALSs bylaws so the Board can read **red/green diffs
 | Branch | What |
 |--------|------|
 | `main` | **Adopted** bylaws (`BYLAWS.md`) |
-| `proposal/ellie-2026-05` | Ellie’s May 2026 professional-bylaws draft, same filename |
+| `proposal/ellie-2026-05` | Ellie’s May 2026 professional-bylaws draft — [PR #1](https://github.com/cPALSs/bylaws/pull/1) |
 
 **Status:** Ellie’s text is a **draft for Board review. Not adopted.** It does **not** start the two-week amendment clock until it is submitted to the Secretary and sent with Board announcements (adopted Article VI).
 
