@@ -1,95 +1,223 @@
 # Bylaws of Community Partners Advocate of Little Saigon Sacramento (cPALSs)
 
-## Article I — Name
+These bylaws establish the governance structure, leadership framework, operational authority, and leadership development standards of Community Partners Advocate of Little Saigon Sacramento (cPALSs), a California nonprofit public benefit organization.
 
-### Section 1 — Name
+## Article I — Name, Purpose, and Mission
 
-The name of the organization shall be Community Partners Advocate of Little Saigon Sacramento (cPALSs). It shall be a nonprofit organization incorporated under the laws of the State of California.
+### Section 1. Name
 
-### Section 2 — Purpose
+The name of the organization shall be Community Partners Advocate of Little Saigon Sacramento (cPALSs). The organization shall operate as a nonprofit organization incorporated under the laws of the State of California.
 
-Community Partners Advocate of Little Saigon Sacramento (cPALSs) is organized exclusively for charitable, scientific and education purposes.
+### Section 2. Purpose
 
-The purpose of this corporation is to:
+cPALSs is organized exclusively for charitable, educational, cultural, civic, and community development purposes.
+
+The organization exists to strengthen communities through advocacy, cultural preservation, leadership development, outreach, education, partnerships, and community engagement initiatives.
+
+### Section 3. Mission Alignment
+
+All programs, committees, partnerships, and activities shall align with the mission, values, and strategic priorities established by the Board of Directors.
 
 ## Article II — Membership
 
-### Section 1 — Membership
+### Section 1. Non-Membership Structure
 
-Membership shall consist of the Board of Directors.
+cPALSs shall operate as a non-membership nonprofit corporation. Governance authority shall reside solely with the Board of Directors.
+
+### Section 2. Community Participation
+
+The organization may establish volunteer, advisory, ambassador, and leadership development programs that support the mission of the organization without conferring legal membership rights.
 
 ## Article III — Board of Directors
 
-### Section 1 — Board role, size, and compensation
+### Section 1. Governance Authority
 
-The board is responsible for overall policy and direction of the Academy and delegates responsibility of day-to-day operations to the staff and committees. The board shall have up to 8, but not fewer than 4 members. The board receives no compensation other than reasonable expenses.
+The Board of Directors shall serve as the official governing body of cPALSs and shall maintain fiduciary responsibility for governance, financial oversight, strategic direction, legal compliance, and organizational sustainability.
 
-### Section 2 — Terms
+### Section 2. Board Composition
 
-All board members shall serve two-year terms, but are eligible for re-election for up to five consecutive terms.
+The Board shall consist of no fewer than five (5) and no more than fifteen (15) Directors as determined by organizational need.
 
-### Section 3 — Meetings and notice
+### Section 3. Director Qualifications
 
-The board shall meet at least quarterly, at an agreed upon time and place. An official board meeting requires that each board member have written notice at least two weeks in advance.
+Directors should demonstrate leadership experience, community engagement, professional integrity, and commitment to the mission and values of cPALSs.
 
-### Section 4 — Board elections
+### Section 4. Voting Authority
 
-During the last quarter of each fiscal year of the corporation, the board of directors shall elect Directors to replace those whose terms will expire at the end of the fiscal year. This election shall take place during a regular meeting of the directors, called in accordance with the provisions of these bylaws.
+Only duly elected Directors shall possess voting rights or count toward quorum.
 
-### Section 5 — Election procedures
+### Section 5. Terms
 
-New directors shall be elected by a majority of directors present at such a meeting, provided there is a quorum present. Directors so elected shall serve a term beginning on the first day of the next fiscal year.
+Directors shall serve staggered two-year terms and may be re-elected by majority vote of the Board.
 
-### Section 6 — Quorum
+### Section 6. Quorum
 
-A quorum must be attended by at least forty percent of board members for business transactions to take place and motions to pass.
+A quorum shall consist of a majority of seated Directors.
 
-### Section 7 — Officers and Duties
+### Section 7. Meetings
 
-There shall be four officers of the board, consisting of a chair, vice-chair, secretary and treasurer. Their duties are as follows:
+The Board shall meet no fewer than quarterly. Written notice of meetings shall be distributed at least seven days in advance unless emergency circumstances require otherwise.
 
-The chair shall convene regularly scheduled board meetings, shall preside or arrange for other members of the Executive Committee to preside at each meeting in the following order: vice-chair, secretary, treasurer.
+### Section 8. Special Meetings
 
-The vice-chair shall chair committees on special subjects as designated by the board.
+Special meetings may be called by the Chair, Executive Committee, or one-third of Directors.
 
-The secretary shall be responsible for keeping records of board actions, including overseeing the taking of minutes at all board meetings, sending out meeting announcements, distributing copies of minutes and the agenda to each board member, and assuring that corporate records are maintained.
+### Section 9. Attendance
 
-The treasurer shall make a report at each board meeting. The treasurer shall chair the finance committee, assist in the preparation of the budget, help develop fundraising plans, and make financial information available to board members and the public.
+Directors are expected to actively participate in meetings, committees, and organizational activities. Excessive unexcused absences may constitute grounds for removal.
 
-### Section 8 — Vacancies
+### Section 10. Removal
 
-When a vacancy on the board exists mid-term, the secretary must receive nominations for new members from present board members two weeks in advance of a board meeting. These nominations shall be sent out to board members with the regular board meeting announcement, to be voted upon at the next board meeting. These vacancies will be filled only to the end of the particular board member's term.
+A Director may be removed by a two-thirds vote of the remaining Directors for misconduct, breach of fiduciary duty, ethical violations, inactivity, or conduct inconsistent with organizational values.
 
-### Section 9 — Resignation, termination, and absences
+## Article IV — Officers
 
-Resignation from the board must be in writing and received by the secretary. A board members shall be terminated from the board due to excess absences, more than two unexcused absences from board meetings in a year. A board member may be removed for other reasons by a three-fourths vote of the remaining directors.
+### Section 1. Officers
 
-### Section 10 — Special meetings
+The officers of the organization shall include a Chair/President, Vice Chair/Vice President, Secretary, Treasurer, and any additional officers approved by the Board.
 
-Special meetings of the board shall be called upon the request of the chair, or one-third of the board. Notices of special meetings shall be sent out by the secretary to each board member at least two weeks in advance.
+### Section 2. Duties
 
-## Article IV — Committees
+Officers shall oversee governance leadership, financial accountability, meeting administration, strategic coordination, and organizational compliance.
 
-### Section 1 — Committee formation
+### Section 3. Officer Eligibility
 
-The board may create committees as needed, such as fundraising, housing, public relations, data collection, etc. The board Chair appoints all committee chairs.
+Individuals should generally complete a minimum of two years of organizational leadership, Ambassadorship participation, or Director service prior to being considered for Officer roles unless waived by supermajority Board vote.
 
-### Section 2 — Executive Committee
+### Section 4. Election Procedures
 
-The four officers serve as the members of the Executive Committee. Except for the power to amend the articles of incorporation and bylaws, the Executive Committee shall have all the powers and authority of the board of directors in the intervals between meetings of the board of directors, and is subject to the direction and control of the full board.
+Officer nominees must affirmatively accept nomination prior to election. Non-response alone shall not constitute a decline. Communication efforts must be documented using reasonable outreach methods.
 
-### Section 3 — Finance Committee
+### Section 5. Vacancies
 
-The treasurer is the chair of the Finance Committee, which includes three other board members. The Finance Committee is responsible for developing and reviewing fiscal procedures, fundraising plan, and annual budget with staff and other board members. The board must approve the budget and all expenditures must be within budget. Any major change in the budget must be approved by the board or the Executive Committee. The fiscal year shall be the calendar year. Annual reports are required to be submitted to the board showing income, expenditures, and pending income. The financial records of the organization are public information and shall be made available to board members and the public.
+Officer vacancies may be filled by Board vote for the remainder of the term.
 
-## Article V — Director and Staff
+## Article V — Advisory Board
 
-### Section 1 — Executive Director
+### Section 1. Purpose
 
-The executive director is hired by the board. The executive director has day-to-day responsibilities for the organization, including carrying out the organization’s goals and policies. The executive director will attend all board meetings, report on the progress of the organization, answer questions of the board members and carry out the duties described in the job description. The board can designate other duties as necessary.
+The Advisory Board exists to provide mentorship, professional expertise, strategic insight, cultural guidance, and community partnership support.
 
-## Article VI — Amendments
+### Section 2. Authority
 
-### Section 1 — Amendments
+Advisory Board members may attend meetings and participate in discussion but shall not vote or count toward quorum unless separately elected as Directors.
 
-These bylaws may be amended when necessary by two-thirds majority of the board of directors. Proposed amendments must be submitted to the secretary to be sent out with regular board announcements.
+### Section 3. Lifetime Advisors
+
+The organization may recognize individuals as Lifetime Advisors based on extraordinary service, founding contributions, or long-term leadership.
+
+## Article VI — Committees
+
+### Section 1. Standing and Special Committees
+
+The Board may establish standing or special committees as necessary to support organizational operations and strategic initiatives.
+
+### Section 2. Committee Examples
+
+Committees may include Finance, Governance, Fundraising, Public Relations, Cultural Events, Youth Leadership, Scholarship, Community Outreach, Volunteer Coordination, and Gala Planning Committees.
+
+### Section 3. Committee Leadership
+
+Committee Chairs may be appointed by the Board or Chair and may include non-Director leadership participants.
+
+### Section 4. Executive Committee
+
+The Executive Committee shall consist of the officers of the organization and may act on behalf of the Board between meetings subject to Board oversight.
+
+## Article VII — Ambassadorship Program
+
+### Section 1. Purpose
+
+The cPALSs Ambassadorship Program serves as a leadership development and succession planning pathway for future community leaders, committee leaders, Directors, and Officers.
+
+### Section 2. Eligibility
+
+Interested individuals shall complete an interest application, provide qualifications, participate in interviews, and demonstrate alignment with the mission and values of cPALSs.
+
+### Section 3. Probationary Period
+
+New Ambassadors may complete a six to twelve-month probationary period during which leadership evaluates professionalism, reliability, engagement, and organizational alignment.
+
+### Section 4. Responsibilities
+
+Ambassadors may volunteer at events, support committees, assist with outreach, represent the organization publicly, and participate in leadership development activities.
+
+### Section 5. Governance Status
+
+Ambassadors are not Directors unless separately elected and therefore shall not possess voting rights or count toward quorum.
+
+### Section 6. Pathway to Leadership
+
+Successful participation in the Ambassadorship Program may position individuals for future committee leadership, Director appointments, or Officer consideration.
+
+## Article VIII — Executive Director and Staff
+
+### Section 1. Executive Director
+
+The Executive Director, if applicable, shall be hired and supervised by the Board of Directors.
+
+### Section 2. Responsibilities
+
+The Executive Director shall oversee day-to-day operations, implement Board policies, supervise staff and programs, and provide operational leadership.
+
+### Section 3. Staff Support
+
+Staff and contractors may support organizational operations but shall not possess governance authority unless separately elected as Directors.
+
+## Article IX — Financial Oversight
+
+### Section 1. Fiscal Oversight
+
+The Board shall maintain oversight of all organizational finances, budgets, fundraising activities, and financial compliance.
+
+### Section 2. Fiscal Year
+
+The fiscal year of the organization shall follow the calendar year unless otherwise determined by the Board.
+
+### Section 3. Transparency
+
+Financial reports shall be presented regularly to the Board. Organizational records shall be maintained in accordance with nonprofit compliance standards.
+
+### Section 4. Budget Approval
+
+Major expenditures and annual budgets shall require Board approval.
+
+## Article X — Ethics, Conflicts, and Conduct
+
+### Section 1. Ethical Conduct
+
+All Directors, Officers, Advisors, Ambassadors, volunteers, and staff shall uphold ethical conduct and protect the integrity and reputation of the organization.
+
+### Section 2. Conflict of Interest
+
+The organization shall maintain a Conflict of Interest Policy consistent with California nonprofit governance standards.
+
+### Section 3. Confidentiality
+
+Leadership participants shall maintain appropriate confidentiality regarding sensitive organizational matters.
+
+## Article XI — Dissolution
+
+### Section 1. Dissolution
+
+Dissolution of the organization shall require approval by a two-thirds supermajority vote of the Board of Directors.
+
+### Section 2. Consultation
+
+The Board should consult with Lifetime Advisors prior to dissolution proceedings whenever reasonably practicable.
+
+### Section 3. Distribution of Assets
+
+Upon dissolution, organizational assets shall be distributed in accordance with applicable California nonprofit law and IRS regulations.
+
+## Article XII — Amendments
+
+### Section 1. Amendments
+
+These bylaws may be amended by a two-thirds vote of the Board of Directors provided proposed amendments are distributed in advance of the meeting at which the vote shall occur.
+
+### Section 2. Governance Review
+
+The Board should periodically review these bylaws to ensure alignment with organizational growth, nonprofit best practices, and applicable laws.
+
+Adopted by the Board of Directors of Community Partners Advocate of Little Saigon Sacramento (cPALSs) on ______________________.
