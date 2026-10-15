@@ -48,7 +48,7 @@ Only duly elected Directors shall possess voting rights or count toward quorum.
 
 ### Section 5. Terms
 
-Directors shall serve staggered two-year terms and may be re-elected by majority vote of the Board.
+Directors shall serve staggered two-year terms and are eligible for re-election for up to five consecutive terms.
 
 ### Section 6. Quorum
 
@@ -69,6 +69,10 @@ Directors are expected to actively participate in meetings, committees, and orga
 ### Section 10. Removal
 
 A Director may be removed by a two-thirds vote of the remaining Directors for misconduct, breach of fiduciary duty, ethical violations, inactivity, or conduct inconsistent with organizational values.
+
+### Section 11. Director Vacancies
+
+When a vacancy on the board exists mid-term, the secretary must receive nominations for new members from present board members two weeks in advance of a board meeting. These nominations shall be sent out to board members with the regular board meeting announcement, to be voted upon at the next board meeting. These vacancies will be filled only to the end of the particular board member's term.
 
 ## Article IV — Officers
 
@@ -122,7 +126,7 @@ Committee Chairs may be appointed by the Board or Chair and may include non-Dire
 
 ### Section 4. Executive Committee
 
-The Executive Committee shall consist of the officers of the organization and may act on behalf of the Board between meetings subject to Board oversight.
+The Executive Committee shall consist of the officers of the organization. Except for the power to amend the articles of incorporation and bylaws, the Executive Committee may act on behalf of the Board between meetings of the Board of Directors, subject to the direction and control of the Board. Amendments to the articles of incorporation or these bylaws may be adopted only at a meeting of the Board of Directors, not at a meeting of the Executive Committee or any other committee.
 
 ## Article VII — Ambassadorship Program
 
@@ -214,7 +218,7 @@ Upon dissolution, organizational assets shall be distributed in accordance with 
 
 ### Section 1. Amendments
 
-These bylaws may be amended by a two-thirds vote of the Board of Directors provided proposed amendments are distributed in advance of the meeting at which the vote shall occur.
+These bylaws may be amended by a two-thirds vote of the Board of Directors at a meeting of the Board of Directors. The Executive Committee and other committees shall not amend these bylaws. Proposed amendments shall be distributed in advance of the Board meeting at which the vote shall occur.
 
 ### Section 2. Governance Review
 
